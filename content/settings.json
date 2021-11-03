@@ -1,24 +1,24 @@
 {
-  "store_id": 14784,
-  "name": "velitahbrasil",
   "domain": "velitahbrasil.netlify.app",
-  "short_name": "velitahbrasil",
-  "description": "velitahbrasil",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/velitahbrasil",
+  "logo": "/img/uploads/velitah-brasil.png",
+  "name": "Velitah Brasil",
+  "short_name": "velitahbrasil",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/velitahbrasil"
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 14784,
+  "description": "Uma paixão e uma causa: Produzir velas aromáticas de alta qualidade, e parte do lucro obtido com as vendas destinar à programas de castração de cães e gatos de rua. Por isso, em nosso processo de fabricação só utilizamos matérias primas cuidadosamente selecionadas para que o produto final possa levar até você aromas que proporcionem momentos de tranquilidade e felicidade. Saiba mais sobre a gente em nosso blog.",
+  "large_icon": "/img/large-icon.png"
 }
