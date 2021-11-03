@@ -8,17 +8,17 @@
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/velitahbrasil",
-  "logo": "/img/uploads/velitah-brasil.png",
+  "logo": "/img/uploads/velitah-brasil-velas-aromaticas-logo-2.png",
   "name": "Velitah Brasil",
   "short_name": "velitahbrasil",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/icone-velitah_brasil.png",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/icone-velitah_brasil.png",
   "store_id": 14784,
   "description": "Uma paixão e uma causa: Produzir velas aromáticas de alta qualidade, e parte do lucro obtido com as vendas destinar à programas de castração de cães e gatos de rua. Por isso, em nosso processo de fabricação só utilizamos matérias primas cuidadosamente selecionadas para que o produto final possa levar até você aromas que proporcionem momentos de tranquilidade e felicidade. Saiba mais sobre a gente em nosso blog.",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/icone-velitah_brasil.png"
 }
