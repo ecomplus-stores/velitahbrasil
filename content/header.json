@@ -2,17 +2,14 @@
   "marketing_stripe": {
     "text": "12x sem juros + Frete grátis + Sacola para presente* *Em produtos selecionados",
     "link": "/promotion",
-    "background": "#fbfd96"
+    "background": "#79614e",
+    "color": "#fdfcfc"
   },
   "contacts_stripe": {
     "pages": [
       {
         "title": "",
         "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
     "phone_wpp": true,
