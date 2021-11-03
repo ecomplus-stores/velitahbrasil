@@ -5,14 +5,14 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele em 12x sem juros"
   },
   "exchange": {
     "show": true,
-    "text": "Satisfação garantida"
+    "text": "Satisfação garantida ou seu dinheiro de volta"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Ganhe desconto! Assine nosso Velibox"
   }
 }
