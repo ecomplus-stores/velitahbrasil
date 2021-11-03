@@ -7,14 +7,14 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
+          "img": "/img/uploads/ban_1920x680_velitah_brasil_4.png",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z"
         },
         {
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/ban_1920x680_velitah_brasil_3.png",
           "alt": "Banner sample two",
           "start": "",
           "end": ""
@@ -34,8 +34,8 @@
     },
     {
       "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "title": "Velitah Brasil velas aromáticas para amar e presentear",
+      "description": "Velitah Brasil velas aromáticas, aromatizadas e perfumadas"
     }
   ]
 }
