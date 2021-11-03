@@ -1,12 +1,13 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "12x sem juros + Frete grátis + Sacola para presente* *Em produtos selecionados",
+    "link": "/promotion",
+    "background": "#fbfd96"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
+        "title": "",
         "link": "/pages/sobre-nos"
       },
       {
