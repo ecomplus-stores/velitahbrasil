@@ -20,15 +20,15 @@
           "end": ""
         },
         {
-          "start": "2021-11-08T17:21:37.869Z",
-          "end": "2021-11-08T17:21:37.919Z",
-          "img": "/img/uploads/ban_1920x680_velitah_brasil_1.png"
-        },
-        {
           "start": "2021-11-08T17:11:27.509Z",
           "end": "2021-11-08T17:11:27.552Z",
           "img": "/img/uploads/ban_1920x680_velitah_brasil_2.png",
           "mobile_img": "/img/uploads/mob_412x300_velitah_brasil_1.png"
+        },
+        {
+          "start": "2021-11-08T17:21:37.869Z",
+          "end": "2021-11-08T17:21:37.919Z",
+          "img": "/img/uploads/ban_1920x680_velitah_brasil_1.png"
         }
       ]
     },
