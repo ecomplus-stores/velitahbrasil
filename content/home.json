@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 5,
+      "autoplay": 9000,
       "slides": [
         {
           "img": "/img/uploads/ban_1920x680_velitah_brasil_4.png",
