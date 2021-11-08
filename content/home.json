@@ -7,17 +7,9 @@
       "autoplay": 90,
       "slides": [
         {
-          "img": "/img/uploads/ban_1920x680_velitah_brasil_4.png",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
-        },
-        {
-          "img": "/img/uploads/ban_1920x680_velitah_brasil_3.png",
-          "alt": "Banner sample two",
           "start": "",
-          "end": ""
+          "end": "",
+          "img": "/img/uploads/ban_1920x680_velitah_brasil_1.png"
         },
         {
           "start": "",
@@ -26,9 +18,17 @@
           "mobile_img": "/img/uploads/mob_412x300_velitah_brasil_1.png"
         },
         {
+          "img": "/img/uploads/ban_1920x680_velitah_brasil_3.png",
+          "alt": "Banner sample two",
           "start": "",
-          "end": "",
-          "img": "/img/uploads/ban_1920x680_velitah_brasil_1.png"
+          "end": ""
+        },
+        {
+          "img": "/img/uploads/ban_1920x680_velitah_brasil_4.png",
+          "link": "/headset",
+          "alt": "Headset banner",
+          "start": "2020-04-11T05:54:06.750Z",
+          "end": "2020-12-31T03:00:00.000Z"
         }
       ]
     },
