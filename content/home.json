@@ -9,24 +9,26 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/ban_1_680x1920_velitah_brasil.png"
+          "img": "/img/uploads/ban_1_680x1920_velitah_brasil.png",
+          "alt": "Banner sample one"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/ban_2_680x1920_velitah_brasil.png",
-          "mobile_img": "/img/uploads/mob_412x300_velitah_brasil_1.png"
+          "mobile_img": "/img/uploads/mob_412x300_velitah_brasil_1.png",
+          "alt": "Banner sample two"
         },
         {
           "img": "/img/uploads/ban_3_680x1920_velitah_brasil.png",
-          "alt": "Banner sample two",
+          "alt": "Banner sample three",
           "start": "",
           "end": ""
         },
         {
           "img": "/img/uploads/ban_4_680x1920_velitah_brasil.png",
-          "link": "/headset",
-          "alt": "Headset banner",
+          "link": "",
+          "alt": "Banner sample four",
           "start": "",
           "end": ""
         }
