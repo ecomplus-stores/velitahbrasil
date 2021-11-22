@@ -5,11 +5,11 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele em 12x sem juros"
+    "text": "Até 12x sem juros"
   },
   "exchange": {
     "show": true,
-    "text": "Sua compra ajuda uma causa Pet"
+    "text": "Sua compra ajuda a uma causa pet"
   },
   "promo": {
     "show": true,
