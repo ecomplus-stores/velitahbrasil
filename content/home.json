@@ -28,11 +28,12 @@
           "mobile_img": "/img/uploads/mob_3_412x412_velitah_brasil.png"
         },
         {
-          "img": "/img/uploads/ban_4_680x1920_velitah_brasil.png",
+          "img": "/img/uploads/ban_4_1920x890_velitah_brasil.png",
           "link": "",
           "alt": "Banner sample four",
           "start": "",
-          "end": ""
+          "end": "",
+          "mobile_img": "/img/uploads/mob_4_412x412_velitah_brasil.png"
         }
       ]
     },
