@@ -52,6 +52,19 @@
       "type": "page-title",
       "title": "Velitah Brasil velas aromáticas sofisticadas",
       "description": "Sua casa vai ficar mais perfumada e a decoração mais linda. Requinte em velas aromatizadas para amar e presentear, em até 12x sem juros + Sacola para presente"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 6000,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "alt": "Banner sample five",
+          "img": "/img/uploads/ban_5_1920x890_velitah_brasil.png",
+          "mobile_img": "/img/uploads/mob_5_412x412_velitah_brasil.png"
+        }
+      ]
     }
   ]
 }
