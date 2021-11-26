@@ -21,10 +21,11 @@
           "alt": "Banner sample two"
         },
         {
-          "img": "/img/uploads/ban_3_680x1920_velitah_brasil.png",
+          "img": "/img/uploads/ban_3_1920x890_velitah_brasil.png",
           "alt": "Banner sample three",
           "start": "",
-          "end": ""
+          "end": "",
+          "mobile_img": "/img/uploads/mob_3_412x412_velitah_brasil.png"
         },
         {
           "img": "/img/uploads/ban_4_680x1920_velitah_brasil.png",
