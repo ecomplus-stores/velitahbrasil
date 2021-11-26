@@ -9,8 +9,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/ban_1_680x1920_velitah_brasil.png",
-          "alt": "Banner sample one"
+          "img": "/img/uploads/ban_1_1920x890_velitah_brasil.png",
+          "alt": "Banner sample one",
+          "mobile_img": "/img/uploads/mob_1_412x412_velitah_brasil.png"
         },
         {
           "start": "",
