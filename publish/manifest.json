@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.18e648c072df7354efd18e423ae264ca.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.79356cde48f2c26bd04037f3d316cfcc.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.a8d914ca0b2a61155553ae64a502e817.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.5af847210c2ccf90217536ee7e1eaa08.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.73be2ec866bcd4ddb154d2844ae1f570.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Velitah Brasil velas aromáticas, aromatizadas e perfumadas para amar e presentear",
+  "short_name": "Velitah Brasil",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Produzimos velas aromáticas de verdade, com fragrâncias de alta qualidade e embalagens luxuosas, sofisticadas, que agregam na decoração dos ambientes. Somos movidos por um grande propósito: gerar recursos para causas pet. Por isso, parte do lucro obtido com as vendas de nossos produtos é destinado a programas de castração de cães e gatos de rua. Vibramos a cada venda, pois assim mais recursos se somam à nossa causa. Obrigado por chegar até aqui. Experimente nossos produtos, você vai se surpreender! Saiba mais sobre nós em nossas redes sociais.",
+  "background_color": "#ffffff",
+  "theme_color": "#73872c"
+}
