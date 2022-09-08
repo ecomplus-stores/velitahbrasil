@@ -434,6 +434,12 @@
     </url>
   
     <url>
+      <loc>https://velitahbrasil.netlify.app/vela-aromatica-perfumada-grande-360g-limao-c775-c555-c925-c988-c437-c701-c398-c199</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://velitahbrasil.netlify.app/casticais</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
