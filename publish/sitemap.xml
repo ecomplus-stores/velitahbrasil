@@ -476,13 +476,13 @@
     </url>
   
     <url>
-      <loc>https://velitahbrasil.netlify.app/pages/privacidade</loc>
+      <loc>https://velitahbrasil.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://velitahbrasil.netlify.app/pages/pagamentos</loc>
+      <loc>https://velitahbrasil.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
