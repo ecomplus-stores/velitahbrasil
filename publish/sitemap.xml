@@ -446,6 +446,12 @@
     </url>
   
     <url>
+      <loc>https://velitahbrasil.netlify.app/vela-aromatica-perfumada-grande-360g-limao-c775-c555-c925-c475-c553-c816-c705-c490</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://velitahbrasil.netlify.app/casticais</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -464,7 +470,7 @@
     </url>
   
     <url>
-      <loc>https://velitahbrasil.netlify.app/pages/pagamentos</loc>
+      <loc>https://velitahbrasil.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -476,13 +482,13 @@
     </url>
   
     <url>
-      <loc>https://velitahbrasil.netlify.app/pages/sobre-nos</loc>
+      <loc>https://velitahbrasil.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://velitahbrasil.netlify.app/pages/faq</loc>
+      <loc>https://velitahbrasil.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
